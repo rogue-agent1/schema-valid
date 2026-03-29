@@ -1,10 +1,11 @@
-# Schema Valid
+# schema-valid
 
-A zero-dependency Python CLI tool.
+JSON schema validator (subset of JSON Schema Draft 7).
 
 ## Usage
 
 ```bash
-python schema_valid.py test
-python schema_valid.py demo
+python3 schema_valid.py test
 ```
+
+Zero dependencies. Python 3.8+.
